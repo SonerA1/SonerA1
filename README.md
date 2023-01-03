@@ -4,7 +4,7 @@ Welcome My Github Profile👋👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java, Spring, HTML, CSS, BOOTSTRAP
-- 🌱 I’m currently learning C#, Java, JavaSpring, Python
+- 🌱 I’m currently learning C#, Java, JavaSpring, Python, JavaScript
 - 💬 Ask me about ... Java Spring
 - 📫 How to reach me: soneralcc@gmail.com
 - ⚡ Fun fact: ... Music and code
