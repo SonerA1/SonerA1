@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, Css, Html and Bootstrap<br>👯 I’m looking to collaborate on Frontend, Backend or Game Development<br>🌱 I’m currently learning Java and JavaScript<br>
+🔭 I’m currently working on Kotlin, Java, Css, Html and Bootstrap<br>👯 I’m looking to collaborate on Frontend, Backend or Game Development<br>🌱 I’m currently learning Java and JavaScript<br>
 
 
 ## 🌐 Socials:
