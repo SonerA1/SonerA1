@@ -20,13 +20,13 @@ My Portfolio: https://soner-alci.netlify.app/
 
 <div align=center>
  <a href="https://github.com/SonerA1/NoteBook-App"><img width=300 src="https://user-images.githubusercontent.com/114054564/256877192-4053e83f-478e-4a40-ab6d-b8cbd6b7d0ac.gif"></a>
-   <a href="https://github.com/SonerA1/NoteBook-App"><img width=430 src="https://user-images.githubusercontent.com/114054564/246685780-8dcb12cf-d5c7-4232-a596-9acce1d39971.gif"></a>
-   <a href="https://github.com/SonerA1/NoteBook-App"><img width=200 src="https://user-images.githubusercontent.com/114054564/249464911-a42f56a3-be8f-4eb0-bc42-1b512a259c59.gif"></a>
-   <a href="https://github.com/SonerA1/NoteBook-App"><img width=216 src="https://user-images.githubusercontent.com/114054564/248455290-2fe56e5e-041f-484c-b41c-f84b1c3a893c.png"></a>
+   <a href="https://github.com/SonerA1/CountryApp"><img width=430 src="https://user-images.githubusercontent.com/114054564/246685780-8dcb12cf-d5c7-4232-a596-9acce1d39971.gif"></a>
+   <a href="https://github.com/SonerA1/CleanMovieApp"><img width=200 src="https://user-images.githubusercontent.com/114054564/249464911-a42f56a3-be8f-4eb0-bc42-1b512a259c59.gif"></a>
+   <a href="https://github.com/SonerA1/ArtBook2"><img width=216 src="https://user-images.githubusercontent.com/114054564/248455290-2fe56e5e-041f-484c-b41c-f84b1c3a893c.png"></a>
 </div>
 <br>
 
-<div align=center>
+<div align="left">
 <table>
     <tr>
         <td colspan="8">
@@ -47,8 +47,10 @@ My Portfolio: https://soner-alci.netlify.app/
         </td>
     </tr>
 </table>
+</div>
 
-<div align=center>
+
+<div align="left">
 <table>
     <tr>
         <td colspan="8">
@@ -62,7 +64,8 @@ My Portfolio: https://soner-alci.netlify.app/
         </td>
     </tr>
 </table>
-<div align=center>
+</div>
+<div align="left">
 <table>
     <tr>
         <td colspan="8">
@@ -76,6 +79,7 @@ My Portfolio: https://soner-alci.netlify.app/
         </td>
     </tr>
 </table>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SonerA1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
