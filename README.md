@@ -6,7 +6,13 @@
 Hi, I'm Soner and I'm an Android Developer from Turkey. I am interested in Backend, Android, Kotlin, and Java.Here you will find more of these.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/soneralcii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soner-alci) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@soneralcc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Soneralcii) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soneralcii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soneralcii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soner-alci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soner-alci" height="30" width="40" /></a>
+<a href="https://instagram.com/soneralcii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soneralcii" height="30" width="40" /></a>
+<a href="https://medium.com/@soneralcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soneralcc" height="30" width="40" /></a>
+</p>
 
 My Portfolio: https://soner-alci.netlify.app/
 
